@@ -1,17 +1,14 @@
+--------------------------------------
 - ﻿Sempre rodar um Clean/Rebuild
 - Rodar o comando no terminal, pra limpar a memória do IIS
 taskkill /IM iisexpress.exe
-
+--------------------------------------
 ﻿﻿https://docs.microsoft.com/en-us/visualstudio/mac/building-and-cleaning-projects-and-solutions?view=...
-
-﻿Limpando o log de warnings, que atrapalha no build.
-﻿- Suprimindo.
-﻿- Limpando variaveis não utilizadas.
-
+--------------------------------------
 ﻿﻿https://docs.microsoft.com/pt-br/dotnet/fundamentals/code-analysis/suppress-warnings
-
+--------------------------------------
 Cancel build in Angular: ﻿Ctrl + C.
-
-﻿Requesting data from a server
-
+﻿--------------------------------------
+Requesting data from a server
 ﻿﻿https://angular.io/guide/http
+--------------------------------------

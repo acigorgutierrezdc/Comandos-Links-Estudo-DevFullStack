@@ -3,3 +3,5 @@
 Creating Your Debug Configuration
 https://www.digitalocean.com/community/tutorials/how-to-debug-angular-cli-applications-in-visual-studio-code
 --------------------------------------
+https://github.com/microsoft/vscode-recipes
+--------------------------------------

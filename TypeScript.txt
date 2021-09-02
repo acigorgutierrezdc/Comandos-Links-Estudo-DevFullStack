@@ -4,3 +4,6 @@ https://code.visualstudio.com/docs/typescript/typescript-debugging
 --------------------------------------
 https://www.typescriptlang.org/docs/handbook/intro.html
 --------------------------------------
+Working with JavaScript - IntelliSense# - (ATA)Typings and Automatic Type Acquisition#
+https://code.visualstudio.com/docs/nodejs/working-with-javascript#_typings-and-automatic-type-acquisition
+--------------------------------------

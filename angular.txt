@@ -4,3 +4,6 @@ Creating Your Debug Configuration
 https://www.digitalocean.com/community/tutorials/how-to-debug-angular-cli-applications-in-visual-studio-code
 https://github.com/microsoft/vscode-recipes
 --------------------------------------
+Tradução - Resources - Angular internationalization (i18n) tutorial
+https://localizely.com/blog/angular-i18n-tutorial/
+--------------------------------------
